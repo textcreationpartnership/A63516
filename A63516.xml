@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English prophet, or, Englands happiness a hundred years hence</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63516</idno>
+            <idno type="STC">Wing T2694</idno>
+            <idno type="STC">ESTC R34077</idno>
+            <idno type="EEBO-CITATION">13706760</idno>
+            <idno type="OCLC">ocm 13706760</idno>
+            <idno type="VID">101493</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63516)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101493)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1054:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English prophet, or, Englands happiness a hundred years hence</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Alldridge ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:101493:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>
+               <hi>The True English Prophet:</hi> OR, ENGLANDS Happineſs <hi>A Hundred Years Hence,</hi>
+            </head>
+            <opener>To a New <hi>Play-Houſe</hi> Tune.</opener>
+            <p>Licenſed according to Order.</p>
+            <lg n="1">
+               <head>I.</head>
+               <l>COme chear up your Hearts, Boys, &amp; all hands to Work,</l>
+               <l>We'll be Happy and Bleſt, ſpight of Devil and <hi>Turk;</hi>
+               </l>
+               <l>Our Land you muſt know, we ſhall one day ſee flow</l>
+               <l>With that dear Milk and Honey,</l>
+               <l>Call'd Plenty and Money,</l>
+               <l>If we can but a little with Patience diſpence,</l>
+               <l>
+                  <hi>Thoſe Bleſt Days will be Ours all a Hundred Year's hence,</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>By that time our Foes will be all Dead and Rotten,</l>
+               <l>Our Quarrels all huſh't, and our Troubles forgotten;</l>
+               <l>His Gout, Stone and Pox, will have then done the work</l>
+               <l>Of <hi>Europes</hi> Old Blood-hound,</l>
+               <l>The moſt Chriſtian <hi>Turk:</hi>
+               </l>
+               <l>For <hi>Lucifer</hi> waits his New Reign to Commence,</l>
+               <l>
+                  <hi>And all long before a Hundred Years hence.</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Our Taxes we'll heartily pay in our Turns,</l>
+               <l>Count it which way you pleaſe, for our Heads or our Horns</l>
+               <l>We ſhall ſee that bleſt Day, when we ne're ſhall be poor,</l>
+               <l>If our Wives have not ſent us</l>
+               <l>To Heav'n long before.</l>
+               <l>Peace, Bleſſing, and Plenty, their Smiles will diſpence</l>
+               <l>
+                  <hi>At furtheſt within one poor Hundred Years hence.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>And what, tho' thus long we have mourn'd the ſad wants</l>
+               <l>Of a Glaſs of good <hi>Bourdeaux,</hi> and Cup of fine <hi>Nants,</hi>
+               </l>
+               <l>We then ſhall have Wine, and Brandy moſt certain,</l>
+               <l>A Quart for a Shilling,</l>
+               <l>And Two-pence a Quartern;</l>
+               <l>For the Generous <hi>French</hi> will that Favour diſpence,</l>
+               <l>
+                  <hi>If we happen to live but a Hundred Years hence.</hi>
+               </l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>'Tis true, no great ſtore of Coin we can boaſt,</l>
+               <l>Our Wealth and our Silver, <hi>alas,</hi> are Rid Poſt;</l>
+               <l>But what, though the Clippers and Coiners have ſnip'd it,</l>
+               <l>And o're the <hi>Herring-Pond</hi>
+               </l>
+               <l>The Wars they have whipp'd it,</l>
+               <l>We ſhall role in Mill'd Crowns, Pounds, Shillings &amp; Pence,</l>
+               <l>
+                  <hi>If we live and do well but a Hundred Years hence.</hi>
+               </l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>In a Hundred Years time, how the World we ſhall ſettle,</l>
+               <l>VVe ſhall certainly then have quite mended our Kettle,</l>
+               <l>Our Diſputes and our Titles, will then be Adjuſted,</l>
+               <l>And Monſieur by that time</l>
+               <l>Perhaps may be truſted:</l>
+               <l>Then <hi>England</hi> to <hi>France</hi> her ſmiles ſhall diſpence</l>
+               <l>
+                  <hi>In a General Peace a Hundred Years hence.</hi>
+               </l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>In Wedding, and Bedding, and Goſſiping Rates.</l>
+               <l>Tho' we now pay for Kiſſing, and getting of Brats;</l>
+               <l>Our Grandſons will lay the young Girls on their Back.</l>
+               <l>In the fear of the Lord,</l>
+               <l>And without fear of Tax;</l>
+               <l>Without Socket-Money, or Chriſtning Expence,</l>
+               <l>
+                  <hi>Take up the Smock Cheaper a Hundred Years hence.</hi>
+               </l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>And what tho' our Citizens honeſt good People,</l>
+               <l>In hopes of a New, and a ſwinging <hi>Paul's</hi> Steeple,</l>
+               <l>Stand Gaping to ſee it Riſe higher and higher;</l>
+               <l>Whilſt we Raiſe by our Coals</l>
+               <l>What we Loſt by our Fire,</l>
+               <l>With that ſmall yearly Rent they'll eaſily diſpence:</l>
+               <l>
+                  <hi>For</hi> Pauls <hi>will be Built in a Hundred Years hence,</hi>
+               </l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>Nay, the <hi>Bank</hi> Bills that Swagger'd ſo high, tho' of lat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>They're Dwindled to Twenty <hi>per Century</hi> Rebate,</l>
+               <l>If you'll ſtay but a while, and be but ſo Civil</l>
+               <l>To wait but till Knavery</l>
+               <l>Is gone to the Devil;</l>
+               <l>By that time they'll hold up their Heads, and ſpeak ſen<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>If you can but have Patience t' a Hundred Years hence.</hi>
+               </l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>The City will, then make their <hi>Orphans</hi> all Rich,</l>
+               <l>Have pay'd off their <hi>Bedlam</hi>-Score, <hi>Mum-Glaſs</hi> and <hi>Dit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>Oar <hi>Caſements</hi> and <hi>Windows,</hi> that now pay their Light;</l>
+               <l>And all to the making</l>
+               <l>Our Silver more Bright;</l>
+               <l>Will Crown with full Glory our Shillings and Pence:</l>
+               <l>
+                  <hi>For our Mint will Shine out a Hundred Years hence.</hi>
+               </l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>But now, without Rallying or Joque, lets agree,</l>
+               <l>To pay our Great <hi>Caeſar</hi> our Hand, Heart and Knee;</l>
+               <l>The Heroe, whoſe Sword for our Liberty Draws,</l>
+               <l>Who faces Blood, Danger,</l>
+               <l>And Death in Our Cauſe;</l>
+               <l>Some few Months, we hope, will his warm Beams diſpe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>
+                  <hi>And our Heirs Bleſs his Name a Hundred Years hence.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>T. Allbridge</hi> in <hi>Southwark</hi> 16<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>7</p>
+         </div>
+      </back>
+   </text>
+</TEI>
